@@ -1,6 +1,6 @@
 # kami2-solver
 
-FIXME: description
+Solver for the Kami2 game
 
 ## Installation
 
